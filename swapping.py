@@ -20,7 +20,6 @@ print(x)
 print(y)
 
 
-
 # with the help of multiplication/divide
 q=3
 r=9
