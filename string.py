@@ -1,0 +1,6 @@
+print('how '+'are '+'you ')
+print( 'i '+'am '+'good ')
+print('my name is harshita mehta and i am currently pursuing BCA from Miet kumaon'+"\n" 'i have maintained overall 72% upto fifth semester')
+print("during my BCA, i develop a strong interest in data analytics ")
+print("and learning SQL,Python,Excel,Power BI")
+print("i have also worked on acadmic projects that helped me in improving my problem solving")
